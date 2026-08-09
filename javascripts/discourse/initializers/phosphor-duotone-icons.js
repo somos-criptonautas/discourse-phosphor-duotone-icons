@@ -267,6 +267,11 @@ function initIcons(api) {
   api.replaceIcon("users", "ph-dt-users");
   api.replaceIcon("video", "ph-dt-video-camera");
   api.replaceIcon("wrench", "ph-dt-wrench");
+  api.replaceIcon("microphone", "ph-dt-bookmark-simple");
+  api.replaceIcon("discourse-sparkles", "sparkle");
+  api.replaceIcon("list", "list-checks");
+  api.replaceIcon("pencil", "note-pencil");
+  api.replaceIcon("credit-card", "ticket");
 }
 
 export default {
