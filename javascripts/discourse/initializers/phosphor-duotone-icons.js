@@ -269,9 +269,8 @@ function initIcons(api) {
   api.replaceIcon("video", "ph-dt-video-camera");
   api.replaceIcon("wrench", "ph-dt-wrench");
   api.replaceIcon("flask", "ph-dt-flask");
-  api.replaceIcon("microphone", "ph-dt-bookmark-simple");
+  api.replaceIcon("microphone-lines", "microphone");
   api.replaceIcon("discourse-sparkles", "sparkle");
-  api.replaceIcon("far-list", "list-checks");
   api.replaceIcon("far-credit-card", "ticket");
 }
 
