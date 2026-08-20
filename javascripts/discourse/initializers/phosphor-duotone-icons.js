@@ -152,6 +152,7 @@ function initIcons(api) {
   api.replaceIcon("key", "ph-dt-key");
   api.replaceIcon("keyboard", "ph-dt-keyboard");
   api.replaceIcon("wand-magic", "ph-dt-magic-wand");
+  api.replaceIcon("wand-magic-sparkles", "ph-dt-magic-wand");
   api.replaceIcon("location-dot", "ph-dt-map-pin");
   api.replaceIcon("medal", "ph-dt-medal");
   api.replaceIcon("minus", "ph-dt-minus");
@@ -209,6 +210,7 @@ function initIcons(api) {
   api.replaceIcon("pen", "ph-dt-pen");
   api.replaceIcon("pencil", "note-pencil");
   api.replaceIcon("far-pencil", "note-pencil");
+  api.replaceIcon("icon-pencil", "note-pencil");
   api.replaceIcon("play", "ph-dt-play");
   api.replaceIcon("plug", "ph-dt-plug");
   api.replaceIcon("plus", "ph-dt-plus");
@@ -266,12 +268,14 @@ function initIcons(api) {
   api.replaceIcon("user-xmark", "ph-dt-user-minus");
   api.replaceIcon("user", "ph-dt-user");
   api.replaceIcon("users", "ph-dt-users");
+  api.replaceIcon("circle-user", "ph-dt-user");
   api.replaceIcon("video", "ph-dt-video-camera");
   api.replaceIcon("wrench", "ph-dt-wrench");
   api.replaceIcon("flask", "ph-dt-flask");
-  api.replaceIcon("microphone-lines", "microphone");
-  api.replaceIcon("discourse-sparkles", "sparkle");
-  api.replaceIcon("far-credit-card", "ticket");
+  api.replaceIcon("microphone-lines", "ph-dt-microphone");
+  api.replaceIcon("discourse-sparkles", "ph-dt-sparkle");
+  api.replaceIcon("far-credit-card", "ph-dt-ticket");
+  api.replaceIcon("thropy", "ph-dt-trophy");
 }
 
 export default {
