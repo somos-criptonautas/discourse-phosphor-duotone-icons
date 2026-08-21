@@ -45,7 +45,7 @@ function initIcons(api) {
   api.replaceIcon("certificate", "ph-dt-medal");
   api.replaceIcon("chart-bar", "ph-dt-chart-bar");
   api.replaceIcon("chart-pie", "ph-dt-chart-pie");
-  api.replaceIcon("check", "ph-dt-check");
+  api.replaceIcon("check", "ph-dt-check-fat");
   api.replaceIcon("circle-check", "ph-dt-check-circle");
   api.replaceIcon("square-check", "ph-dt-check-square");
   api.replaceIcon("circle-chevron-down", "ph-dt-caret-circle-down");
