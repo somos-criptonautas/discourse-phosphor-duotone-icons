@@ -34,8 +34,9 @@ function initIcons(api) {
   api.replaceIcon("bold", "ph-dt-text-b");
   api.replaceIcon("book", "ph-dt-notebook");
   api.replaceIcon("book-open-reader", "ph-dt-book-open-text");
-  api.replaceIcon("bookmark", "ph-dt-bookmark-simple");
+  api.replaceIcon("bookmark", "ph-dt-bookmarks");
   api.replaceIcon("briefcase", "ph-dt-briefcase");
+  api.replaceIcon("bug", "ph-dt-bug-beetle");
   api.replaceIcon("bullseye", "ph-dt-target");
   api.replaceIcon("calendar-days", "ph-dt-calendar-blank");
   api.replaceIcon("caret-down", "ph-dt-caret-circle-down");
@@ -134,8 +135,9 @@ function initIcons(api) {
   api.replaceIcon("folder-open", "ph-dt-folder-notch-open");
   api.replaceIcon("folder", "ph-dt-folder");
   api.replaceIcon("forward", "ph-dt-fast-forward");
-  api.replaceIcon("gavel", "ph-dt-gavel");
+  api.replaceIcon("gavel", "ph-dt-vote");
   api.replaceIcon("gift", "ph-dt-gift");
+  api.replaceIcon("graduation-cap", "ph-dt-graduate");
   api.replaceIcon("globe", "ph-dt-globe");
   api.replaceIcon("earth-americas", "ph-dt-globe-hemisphere-west");
   api.replaceIcon("grip-lines", "ph-dt-rows");
@@ -208,9 +210,9 @@ function initIcons(api) {
   api.replaceIcon("paintbrush", "ph-dt-paint-brush");
   api.replaceIcon("pause", "ph-dt-pause");
   api.replaceIcon("pen", "ph-dt-pen");
-  api.replaceIcon("pencil", "ph-dt-note-pencil");
-  api.replaceIcon("far-pencil", "ph-dt-note-pencil");
-  api.replaceIcon("icon-pencil", "ph-dt-note-pencil");
+  api.replaceIcon("pencil", "ph-dt-pencil-line");
+  api.replaceIcon("far-pencil", "ph-dt-pencil-line");
+  api.replaceIcon("icon-pencil", "ph-dt-pencil-line");
   api.replaceIcon("play", "ph-dt-play");
   api.replaceIcon("plug", "ph-dt-plug");
   api.replaceIcon("plus", "ph-dt-plus");
@@ -222,13 +224,13 @@ function initIcons(api) {
   api.replaceIcon("circle-question", "ph-dt-question");
   api.replaceIcon("quote-left", "ph-dt-quotes");
   api.replaceIcon("quote-right", "ph-dt-quotes");
-  api.replaceIcon("shuffle", "ph-dt-shuffle");
+  api.replaceIcon("shuffle", "ph-dt-arrows-clockwise");
   api.replaceIcon("arrow-rotate-right", "ph-dt-arrow-clockwise");
   api.replaceIcon("reply", "ph-dt-arrow-arc-left");
   api.replaceIcon("rocket", "ph-dt-rocket");
   api.replaceIcon("magnifying-glass", "ph-dt-magnifying-glass");
   api.replaceIcon("share", "ph-dt-share");
-  api.replaceIcon("share-nodes", "ph-dt-share-network");
+  api.replaceIcon("share-nodes", "ph-dt-share");
   api.replaceIcon("shield-halved", "ph-dt-shield");
   api.replaceIcon("right-to-bracket", "ph-dt-sign-in");
   api.replaceIcon("right-from-bracket", "ph-dt-sign-out");
@@ -238,6 +240,7 @@ function initIcons(api) {
   api.replaceIcon("square-full", "ph-dt-square");
   api.replaceIcon("stamp", "ph-dt-stamp");
   api.replaceIcon("star", "ph-dt-star");
+  api.replaceIcon("student", "ph-dt-student");
   api.replaceIcon("backward-step", "ph-dt-skip-back");
   api.replaceIcon("forward-step", "ph-dt-skip-forward");
   api.replaceIcon("sun", "ph-dt-sun");
