@@ -278,12 +278,23 @@ function initIcons(api) {
   api.replaceIcon("microphone-lines", "ph-dt-microphone");
   api.replaceIcon("discourse-sparkles", "ph-dt-sparkle");
   api.replaceIcon("far-credit-card", "ph-dt-ticket");
-  api.replaceIcon("thropy", "ph-dt-trophy");
+  api.replaceIcon("trophy", "ph-dt-trophy");
   api.replaceIcon("beer", "ph-dt-beer");
   api.replaceIcon("ghost", "ph-dt-ghost");
   api.replaceIcon("hand-heart", "ph-dt-hand-heart");
   api.replaceIcon("robot", "ph-dt-robot");
   api.replaceIcon("videos", "ph-dt-videos");
+  api.replaceIcon("bars-staggered", "ph-dt-list");
+  api.replaceIcon("language", "ph-dt-translate");
+  api.replaceIcon("file-signature", "ph-dt-signature");
+  api.replaceIcon("eye", "ph-dt-eyes");
+  api.replaceIcon("code-branch", "ph-dt-git-branch");
+  api.replaceIcon("screwdriver-wrench", "ph-dt-gear-fine");
+  api.replaceIcon("user-pen", "ph-dt-user-gear");
+  api.replaceIcon("chart-line", "ph-dt-chart-line");
+  api.replaceIcon("palette", "ph-dt-palette");
+  api.replaceIcon("discourse-emojis", "ph-dt-list-hearth");
+  api.replaceIcon("note-pencil", "ph-dt-note-pencil");
 }
 
 export default {
