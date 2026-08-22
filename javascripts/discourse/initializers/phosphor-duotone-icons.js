@@ -296,6 +296,12 @@ function initIcons(api) {
   api.replaceIcon("discourse-emojis", "ph-dt-list-hearth");
   api.replaceIcon("note-pencil", "ph-dt-note-pencil");
   api.replaceIcon("user-circle-dashed", "ph-dt-user-circle-dashed");
+  api.replaceIcon("markdown", "ph-dt-markdown");
+  api.replaceIcon("discourse-text", "ph-dt-text");
+  api.replaceIcon("far-face-smile", "ph-dt-smile");
+  api.replaceIcon("gif", "ph-dt-gif");
+  api.replaceIcon("discourse-circle-plus", "ph-dt-plus-square");
+  api.replaceIcon("callout", "ph-dt-quotes");
 }
 
 export default {
