@@ -295,7 +295,7 @@ function initIcons(api) {
   api.replaceIcon("palette", "ph-dt-palette");
   api.replaceIcon("discourse-emojis", "ph-dt-list-hearth");
   api.replaceIcon("note-pencil", "ph-dt-note-pencil");
-  api.replaceIcon("user-circle-dashed", "ph-dt-trader");
+  api.replaceIcon("user-circle-dashed", "ph-dt-user-circle-dashed");
 }
 
 export default {
