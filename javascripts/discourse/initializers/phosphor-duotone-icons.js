@@ -13,6 +13,7 @@ function initIcons(api) {
   api.replaceIcon("angles-up", "ph-dt-caret-double-up");
   api.replaceIcon("box-archive", "ph-dt-archive");
   api.replaceIcon("truck-medical", "ph-dt-lifebuoy");
+  api.replaceIcon("chevron-down", "ph-dt-caret-down");
   api.replaceIcon("angle-down", "ph-dt-caret-down");
   api.replaceIcon("angle-right", "ph-dt-caret-right");
   api.replaceIcon("angle-up", "ph-dt-caret-up");
