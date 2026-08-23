@@ -210,7 +210,7 @@ function initIcons(api) {
   api.replaceIcon("paintbrush", "ph-dt-paint-brush");
   api.replaceIcon("pause", "ph-dt-pause");
   api.replaceIcon("pen", "ph-dt-pen");
-  api.replaceIcon("pencil", "ph-dt-pencil-line");
+  api.replaceIcon("pencil", "ph-dt-pencil");
   api.replaceIcon("far-pencil", "ph-dt-pencil-line");
   api.replaceIcon("icon-pencil", "ph-dt-pencil-line");
   api.replaceIcon("play", "ph-dt-play");
@@ -284,7 +284,7 @@ function initIcons(api) {
   api.replaceIcon("hand-heart", "ph-dt-hand-heart");
   api.replaceIcon("robot", "ph-dt-robot");
   api.replaceIcon("videos", "ph-dt-videos");
-  api.replaceIcon("bars-staggered", "ph-dt-list");
+  api.replaceIcon("bars-staggered", "ph-dt-list-numbers");
   api.replaceIcon("language", "ph-dt-translate");
   api.replaceIcon("file-signature", "ph-dt-signature");
   api.replaceIcon("eye", "ph-dt-eyes");
@@ -316,6 +316,6 @@ function initIcons(api) {
 export default {
   name: "phosphor-duotone-icons",
   initialize() {
-    withPluginApi(initIcons);
+    withPluginApi("0", initIcons);
   },
 };
