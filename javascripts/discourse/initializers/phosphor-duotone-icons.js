@@ -307,6 +307,10 @@ function initIcons(api) {
   api.replaceIcon("chart", "ph-dt-chart-bar");
   api.replaceIcon("user-shield", "ph-dt-users-three");
   api.replaceIcon("font", "ph-dt-text-a");
+  api.replaceIcon("discourse-table", "ph-dt-devices");
+  api.replaceIcon("diagram-project", "ph-dt-share-network");
+  api.replaceIcon("sign-hanging", "ph-dt-align-left-simple");
+  api.replaceIcon("rectangle-ad", "ph-dt-align-left-simple");
 }
 
 export default {
