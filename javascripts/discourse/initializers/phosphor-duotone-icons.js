@@ -304,6 +304,9 @@ function initIcons(api) {
   api.replaceIcon("callout", "ph-dt-quotes");
   api.replaceIcon("text-a", "ph-dt-text-a");
   api.replaceIcon("far-bookmark", "ph-dt-bookmark");
+  api.replaceIcon("chart", "ph-dt-chart-bar");
+  api.replaceIcon("user-shield", "ph-dt-users-three");
+  api.replaceIcon("font", "ph-dt-text-a");
 }
 
 export default {
