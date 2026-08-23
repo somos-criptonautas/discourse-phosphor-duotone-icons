@@ -303,6 +303,7 @@ function initIcons(api) {
   api.replaceIcon("discourse-circle-plus", "ph-dt-plus-square");
   api.replaceIcon("callout", "ph-dt-quotes");
   api.replaceIcon("text-a", "ph-dt-text-a");
+  api.replaceIcon("far-bookmark", "ph-dt-bookmark");
 }
 
 export default {
