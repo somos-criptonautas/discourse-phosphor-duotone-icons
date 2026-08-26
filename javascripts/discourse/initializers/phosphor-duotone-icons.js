@@ -147,6 +147,8 @@ function initIcons(api) {
   api.replaceIcon("clock-rotate-left", "ph-dt-clock-counter-clockwise");
   api.replaceIcon("house", "ph-dt-house");
   api.replaceIcon("hourglass-start", "ph-dt-hourglass-high");
+  api.replaceIcon("hourglass-half", "ph-dt-hourglass-medium");
+  api.replaceIcon("hourglass-end", "ph-dt-hourglass-low");
   api.replaceIcon("id-card", "ph-dt-identification-card");
   api.replaceIcon("image", "ph-dt-image");
   api.replaceIcon("inbox", "ph-dt-tray");
@@ -167,7 +169,7 @@ function initIcons(api) {
   api.replaceIcon("list-ol", "ph-dt-list-numbers");
   api.replaceIcon("list-ul", "ph-dt-list");
   api.replaceIcon("list", "ph-dt-list");
-  api.replaceIcon("lock", "ph-dt-lock");
+  api.replaceIcon("lock", "ph-dt-shield-star");
   api.replaceIcon("microphone-slash", "ph-dt-microphone-slash");
   api.replaceIcon("notification.assigned", "ph-dt-user-plus");
   api.replaceIcon("notification.bookmark_reminder", "ph-dt-clock");
