@@ -215,7 +215,6 @@ function initIcons(api) {
   api.replaceIcon("pen", "ph-dt-pen");
   api.replaceIcon("pencil", "ph-dt-pencil");
   api.replaceIcon("far-pencil", "ph-dt-pencil-line");
-  api.replaceIcon("icon-pencil", "ph-dt-pencil-line");
   api.replaceIcon("play", "ph-dt-play");
   api.replaceIcon("plug", "ph-dt-plug");
   api.replaceIcon("plus", "ph-dt-plus");
@@ -314,6 +313,10 @@ function initIcons(api) {
   api.replaceIcon("diagram-project", "ph-dt-share-network");
   api.replaceIcon("sign-hanging", "ph-dt-align-left-simple");
   api.replaceIcon("rectangle-ad", "ph-dt-align-left-simple");
+  api.replaceIcon("calendar-day", "ph-dt-calendar");
+  api.replaceIcon("discourse-sidebar", "ph-dt-sidebar");
+  api.replaceIcon("chart-column", "ph-dt-chart-bar");
+  api.replaceIcon("far-square", "ph-dt-rectangle");
 }
 
 export default {
