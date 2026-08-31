@@ -317,6 +317,7 @@ function initIcons(api) {
   api.replaceIcon("discourse-sidebar", "ph-dt-sidebar");
   api.replaceIcon("chart-column", "ph-dt-chart-bar");
   api.replaceIcon("far-square", "ph-dt-rectangle");
+  api.replaceIcon("unlock", "ph-dt-lock-key-open");
 }
 
 export default {
