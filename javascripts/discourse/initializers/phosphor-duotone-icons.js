@@ -168,7 +168,7 @@ function initIcons(api) {
   api.replaceIcon("link", "ph-dt-link-simple-horizontal");
   api.replaceIcon("list-ol", "ph-dt-list-numbers");
   api.replaceIcon("list-ul", "ph-dt-list");
-  api.replaceIcon("list", "ph-dt-list");
+  api.replaceIcon("list", "ph-dt-list-dashes");
   api.replaceIcon("lock", "ph-dt-shield-star");
   api.replaceIcon("microphone-slash", "ph-dt-microphone-slash");
   api.replaceIcon("notification.assigned", "ph-dt-user-plus");
@@ -213,7 +213,7 @@ function initIcons(api) {
   api.replaceIcon("paintbrush", "ph-dt-paint-brush");
   api.replaceIcon("pause", "ph-dt-pause");
   api.replaceIcon("pen", "ph-dt-pen");
-  api.replaceIcon("pencil", "ph-dt-pencil");
+  api.replaceIcon("pencil", "ph-dt-pencil-simple");
   api.replaceIcon("far-pencil", "ph-dt-pencil-line");
   api.replaceIcon("play", "ph-dt-play");
   api.replaceIcon("plug", "ph-dt-plug");
@@ -228,7 +228,7 @@ function initIcons(api) {
   api.replaceIcon("quote-right", "ph-dt-quotes");
   api.replaceIcon("shuffle", "ph-dt-arrows-clockwise");
   api.replaceIcon("arrow-rotate-right", "ph-dt-arrow-clockwise");
-  api.replaceIcon("reply", "ph-dt-arrow-arc-left");
+  api.replaceIcon("reply", "ph-dt-arrow-bend-up-left");
   api.replaceIcon("rocket", "ph-dt-rocket");
   api.replaceIcon("magnifying-glass", "ph-dt-magnifying-glass");
   api.replaceIcon("share", "ph-dt-share");
