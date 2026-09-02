@@ -35,7 +35,7 @@ function initIcons(api) {
   api.replaceIcon("bold", "ph-dt-text-b");
   api.replaceIcon("book", "ph-dt-notebook");
   api.replaceIcon("book-open-reader", "ph-dt-book-open-text");
-  api.replaceIcon("bookmark", "ph-dt-bookmarks");
+  api.replaceIcon("bookmark", "ph-dt-bookmark");
   api.replaceIcon("briefcase", "ph-dt-briefcase");
   api.replaceIcon("bug", "ph-dt-bug-beetle");
   api.replaceIcon("bullseye", "ph-dt-target");
@@ -216,7 +216,7 @@ function initIcons(api) {
   api.replaceIcon("pencil", "ph-dt-pencil-simple");
   api.replaceIcon("far-pencil", "ph-dt-pencil-line");
   api.replaceIcon("play", "ph-dt-play");
-  api.replaceIcon("plug", "ph-dt-plug");
+  api.replaceIcon("plug", "ph-dt-plugs");
   api.replaceIcon("plus", "ph-dt-plus");
   api.replaceIcon("circle-plus", "ph-dt-plus-circle");
   api.replaceIcon("square-plus", "ph-dt-plus-square");
