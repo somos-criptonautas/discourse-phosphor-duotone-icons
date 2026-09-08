@@ -214,6 +214,7 @@ function initIcons(api) {
   api.replaceIcon("pause", "ph-dt-pause");
   api.replaceIcon("pen", "ph-dt-pen");
   api.replaceIcon("pencil", "ph-dt-pencil-simple");
+  api.replaceIcon("icon-pencil", "ph-dt-pencil-simple");
   api.replaceIcon("far-pencil", "ph-dt-pencil-line");
   api.replaceIcon("play", "ph-dt-play");
   api.replaceIcon("plug", "ph-dt-plugs");
@@ -229,6 +230,7 @@ function initIcons(api) {
   api.replaceIcon("shuffle", "ph-dt-arrows-clockwise");
   api.replaceIcon("arrow-rotate-right", "ph-dt-arrow-clockwise");
   api.replaceIcon("reply", "ph-dt-arrow-bend-up-left");
+  api.replaceIcon("icon-reply", "ph-dt-arrow-bend-up-left");
   api.replaceIcon("rocket", "ph-dt-rocket");
   api.replaceIcon("magnifying-glass", "ph-dt-magnifying-glass");
   api.replaceIcon("share", "ph-dt-share");
@@ -251,6 +253,7 @@ function initIcons(api) {
   api.replaceIcon("table", "ph-dt-grid-four");
   api.replaceIcon("tag", "ph-dt-tag");
   api.replaceIcon("list-check", "ph-dt-list-checks");
+  api.replaceIcon("spell-check", "ph-dt-list-checks");
   api.replaceIcon("temperature-three-quarters", "ph-dt-thermometer");
   api.replaceIcon("thumbs-down", "ph-dt-thumbs-down");
   api.replaceIcon("thumbs-up", "ph-dt-thumbs-up");
@@ -315,6 +318,7 @@ function initIcons(api) {
   api.replaceIcon("rectangle-ad", "ph-dt-align-left-simple");
   api.replaceIcon("calendar-day", "ph-dt-calendar");
   api.replaceIcon("discourse-sidebar", "ph-dt-sidebar");
+  api.replaceIcon("fab-discourse", "ph-dt-phosphor-logo");
   api.replaceIcon("chart-column", "ph-dt-chart-bar");
   api.replaceIcon("far-square", "ph-dt-rectangle");
   api.replaceIcon("unlock", "ph-dt-lock-key-open");
