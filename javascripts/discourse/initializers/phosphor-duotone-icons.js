@@ -321,7 +321,17 @@ function initIcons(api) {
   api.replaceIcon("fab-discourse", "ph-dt-phosphor-logo");
   api.replaceIcon("chart-column", "ph-dt-chart-bar");
   api.replaceIcon("far-square", "ph-dt-rectangle");
-  api.replaceIcon("unlock", "ph-dt-lock-key-open");
+  api.replaceIcon("user_menu.replies", "ph-dt-arrow-bend-up-left");
+  api.replaceIcon("user_menu.drafts", "ph-dt-pencil-simple");
+  api.replaceIcon(
+    "notification.linked_consolidated",
+    "ph-dt-link-simple-horizontal"
+  );
+  api.replaceIcon("notification.watching_category_or_tag", "ph-dt-bell");
+  api.replaceIcon("sidebar.all_categories", "ph-dt-list-dashes");
+  api.replaceIcon("topic.closed", "ph-dt-shield-star");
+  api.replaceIcon("topic.opened", "ph-dt-lock-open");
+  api.replaceIcon("category.restricted", "ph-dt-shield-star");
 }
 
 export default {
