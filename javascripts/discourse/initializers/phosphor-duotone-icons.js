@@ -14,7 +14,11 @@ function initIcons(api) {
   api.replaceIcon("box-archive", "ph-dt-archive");
   api.replaceIcon("truck-medical", "ph-dt-lifebuoy");
   api.replaceIcon("chevron-down", "ph-dt-caret-down");
+  api.replaceIcon("chevron-up", "ph-dt-caret-up");
+  api.replaceIcon("chevron-left", "ph-dt-caret-left");
+  api.replaceIcon("chevron-right", "ph-dt-caret-right");
   api.replaceIcon("angle-down", "ph-dt-caret-down");
+  api.replaceIcon("angle-left", "ph-dt-caret-left");
   api.replaceIcon("angle-right", "ph-dt-caret-right");
   api.replaceIcon("angle-up", "ph-dt-caret-up");
   api.replaceIcon("arrow-down", "ph-dt-arrow-down");
