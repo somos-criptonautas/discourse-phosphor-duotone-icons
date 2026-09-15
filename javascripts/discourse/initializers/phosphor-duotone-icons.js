@@ -258,6 +258,8 @@ function initIcons(api) {
   api.replaceIcon("tag", "ph-dt-tag");
   api.replaceIcon("list-check", "ph-dt-list-checks");
   api.replaceIcon("spell-check", "ph-dt-list-checks");
+  api.replaceIcon("bullhorn", "ph-dt-megaphone");
+  api.replaceIcon("megaphone", "ph-dt-megaphone");
   api.replaceIcon("temperature-three-quarters", "ph-dt-thermometer");
   api.replaceIcon("thumbs-down", "ph-dt-thumbs-down");
   api.replaceIcon("thumbs-up", "ph-dt-thumbs-up");
