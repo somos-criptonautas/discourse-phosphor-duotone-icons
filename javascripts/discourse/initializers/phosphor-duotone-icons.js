@@ -323,6 +323,7 @@ function initIcons(api) {
   api.replaceIcon("sign-hanging", "ph-dt-align-left-simple");
   api.replaceIcon("rectangle-ad", "ph-dt-align-left-simple");
   api.replaceIcon("calendar-day", "ph-dt-calendar");
+  api.replaceIcon("calendar-heart", "ph-dt-calendar-heart");
   api.replaceIcon("discourse-sidebar", "ph-dt-sidebar");
   api.replaceIcon("fab-discourse", "ph-dt-phosphor-logo");
   api.replaceIcon("chart-column", "ph-dt-chart-bar");
