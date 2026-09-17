@@ -36,6 +36,7 @@ function initIcons(api) {
   api.replaceIcon("bell", "ph-dt-bell");
   api.replaceIcon("bell-slash", "ph-dt-bell-slash");
   api.replaceIcon("cake-candles", "ph-dt-cake");
+  api.replaceIcon("cake", "ph-dt-cake");
   api.replaceIcon("bold", "ph-dt-text-b");
   api.replaceIcon("book", "ph-dt-notebook");
   api.replaceIcon("book-open-reader", "ph-dt-book-open-text");
@@ -324,6 +325,7 @@ function initIcons(api) {
   api.replaceIcon("rectangle-ad", "ph-dt-align-left-simple");
   api.replaceIcon("calendar-day", "ph-dt-calendar");
   api.replaceIcon("calendar-heart", "ph-dt-calendar-heart");
+  api.replaceIcon("birthday", "ph-dt-calendar-heart");
   api.replaceIcon("discourse-sidebar", "ph-dt-sidebar");
   api.replaceIcon("fab-discourse", "ph-dt-phosphor-logo");
   api.replaceIcon("chart-column", "ph-dt-chart-bar");
