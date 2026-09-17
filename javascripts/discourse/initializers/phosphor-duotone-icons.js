@@ -289,6 +289,8 @@ function initIcons(api) {
   api.replaceIcon("flask", "ph-dt-flask");
   api.replaceIcon("microphone-lines", "ph-dt-microphone");
   api.replaceIcon("discourse-sparkles", "ph-dt-sparkle");
+  api.replaceIcon("custom-table-2rows", "ph-dt-row-plus-button");
+  api.replaceIcon("discourse-table-sparkles", "ph-dt-sparkles");
   api.replaceIcon("far-credit-card", "ph-dt-ticket");
   api.replaceIcon("trophy", "ph-dt-trophy");
   api.replaceIcon("beer", "ph-dt-beer");
@@ -319,7 +321,7 @@ function initIcons(api) {
   api.replaceIcon("chart", "ph-dt-chart-bar");
   api.replaceIcon("user-shield", "ph-dt-users-three");
   api.replaceIcon("font", "ph-dt-text-a");
-  api.replaceIcon("discourse-table", "ph-dt-devices");
+  api.replaceIcon("discourse-table", "ph-dt-rows");
   api.replaceIcon("diagram-project", "ph-dt-share-network");
   api.replaceIcon("sign-hanging", "ph-dt-align-left-simple");
   api.replaceIcon("rectangle-ad", "ph-dt-align-left-simple");
