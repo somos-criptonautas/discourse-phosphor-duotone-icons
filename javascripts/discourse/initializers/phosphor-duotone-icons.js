@@ -43,6 +43,7 @@ function initIcons(api) {
   api.replaceIcon("bookmark", "ph-dt-bookmark");
   api.replaceIcon("briefcase", "ph-dt-briefcase");
   api.replaceIcon("bug", "ph-dt-bug-beetle");
+  api.replaceIcon("lightbulb", "ph-dt-bulb");
   api.replaceIcon("bullseye", "ph-dt-target");
   api.replaceIcon("calendar-days", "ph-dt-calendar-blank");
   api.replaceIcon("caret-down", "ph-dt-caret-circle-down");
@@ -112,6 +113,7 @@ function initIcons(api) {
   api.replaceIcon("far-circle-check", "ph-dt-check-circle");
   api.replaceIcon("far-circle", "ph-dt-circle");
   api.replaceIcon("far-clipboard", "ph-dt-clipboard");
+  api.replaceIcon("clipboard", "ph-dt-clipboard");
   api.replaceIcon("far-comment", "ph-dt-chat-circle");
   api.replaceIcon("far-comments", "ph-dt-chats-circle");
   api.replaceIcon("far-copyright", "ph-dt-copyright");
@@ -233,6 +235,7 @@ function initIcons(api) {
   api.replaceIcon("quote-left", "ph-dt-quotes");
   api.replaceIcon("quote-right", "ph-dt-quotes");
   api.replaceIcon("shuffle", "ph-dt-arrows-clockwise");
+  api.replaceIcon("arrows-clockwise", "ph-dt-arrows-clockwise");
   api.replaceIcon("arrow-rotate-right", "ph-dt-arrow-clockwise");
   api.replaceIcon("reply", "ph-dt-arrow-bend-up-left");
   api.replaceIcon("icon-reply", "ph-dt-arrow-bend-up-left");
