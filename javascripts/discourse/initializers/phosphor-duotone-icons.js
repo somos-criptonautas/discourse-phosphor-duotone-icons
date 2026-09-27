@@ -220,6 +220,8 @@ function initIcons(api) {
   api.replaceIcon("paintbrush", "ph-dt-paint-brush");
   api.replaceIcon("pause", "ph-dt-pause");
   api.replaceIcon("pen", "ph-dt-pen");
+  api.replaceIcon("calculator", "ph-dt-calc");
+  api.replaceIcon("percent", "ph-dt-percent");
   api.replaceIcon("pencil", "ph-dt-pencil-simple");
   api.replaceIcon("icon-pencil", "ph-dt-pencil-simple");
   api.replaceIcon("far-pencil", "ph-dt-pencil-line");
