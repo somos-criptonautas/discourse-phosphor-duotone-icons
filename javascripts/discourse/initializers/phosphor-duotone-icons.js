@@ -139,6 +139,7 @@ function initIcons(api) {
   api.replaceIcon("file-audio", "ph-dt-file-audio");
   api.replaceIcon("file-image", "ph-dt-file-image");
   api.replaceIcon("file-video", "ph-dt-file-video");
+  api.replaceIcon("film", "ph-dt-videos");
   api.replaceIcon("filter", "ph-dt-funnel");
   api.replaceIcon("folder-open", "ph-dt-folder-notch-open");
   api.replaceIcon("folder", "ph-dt-folder");
