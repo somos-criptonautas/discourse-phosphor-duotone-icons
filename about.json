@@ -2,8 +2,8 @@
   "name": "discourse-phosphor-duotone-icons-nautas",
   "authors": "Discourse — Forked by Criptonautas",
   "description": "Phosphor Duotone icons for Discourse",
-  "about_url": null,
-  "license_url": null,
+  "about_url": "https://github.com/somos-criptonautas/discourse-phosphor-duotone-icons",
+  "license_url": "https://github.com/somos-criptonautas/discourse-phosphor-duotone-icons/blob/main/LICENSE",
   "component": true,
   "assets": {
     "icons-sprite": "/assets/icons-sprite.svg"
