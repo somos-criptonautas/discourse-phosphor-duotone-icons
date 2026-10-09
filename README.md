@@ -2,6 +2,8 @@
 
 **ENGLISH** | [ESPAÑOL](README.es.md)
 
+Maintained by Criptonautas. Not affiliated with or endorsed by Discourse (Civilized Discourse Construction Kit, Inc.).
+
 Theme component that lets Discourse use [Phosphor](https://phosphoricons.com/) duotone icons, plus a few community-specific extras. Fork of [discourse/discourse-phosphor-duotone-icons](https://github.com/discourse/discourse-phosphor-duotone-icons).
 
 ## Install
