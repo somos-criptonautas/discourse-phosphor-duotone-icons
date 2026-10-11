@@ -360,7 +360,10 @@ function initIcons(api) {
   api.replaceIcon("discourse-add-translation", "ph-dt-translate");
   api.replaceIcon("discourse-bell-exclamation", "ph-dt-bell-ringing");
   api.replaceIcon("discourse-bell-one", "ph-dt-bell");
-  api.replaceIcon("discourse-chevron-collapse", "ph-dt-arrows-in-line-vertical");
+  api.replaceIcon(
+    "discourse-chevron-collapse",
+    "ph-dt-arrows-in-line-vertical"
+  );
   api.replaceIcon("discourse-chevron-expand", "ph-dt-arrows-out-line-vertical");
   api.replaceIcon("discourse-circle-minus", "ph-dt-minus-circle");
   api.replaceIcon("discourse-dnd", "ph-dt-moon");
