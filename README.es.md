@@ -16,4 +16,4 @@ Los iconos se referencian por nombre con el prefijo `ph-dt-` (por ejemplo `ph-dt
 
 MIT (upstream: Civilized Discourse Construction Kit, Inc.). Modificaciones © 2026 Criptonautas. Consulta [LICENSE](LICENSE). Los iconos de Phosphor son MIT, de Helena Zhang y Tobias Fried; consulta [LICENSE_PHOSPHOR](LICENSE_PHOSPHOR).
 
-Texto de este README bajo [CC BY-NC-SA 4.0](CC-BY-NC-SA-4.0.txt).
+Nuestros agregados a este README están bajo [CC BY-NC-SA 4.0](CC-BY-NC-SA-4.0.txt); el texto del proyecto original conserva su licencia.

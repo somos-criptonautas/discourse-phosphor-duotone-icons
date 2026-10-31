@@ -16,4 +16,4 @@ Icons are referenced by name with the `ph-dt-` prefix (for example `ph-dt-anchor
 
 MIT (upstream: Civilized Discourse Construction Kit, Inc.). Modifications © 2026 Criptonautas. See [LICENSE](LICENSE). The Phosphor icons themselves are MIT-licensed by Helena Zhang and Tobias Fried; see [LICENSE_PHOSPHOR](LICENSE_PHOSPHOR).
 
-Text of this README under [CC BY-NC-SA 4.0](CC-BY-NC-SA-4.0.txt).
+Our additions to this README are under [CC BY-NC-SA 4.0](CC-BY-NC-SA-4.0.txt); text from the original project keeps its license.
